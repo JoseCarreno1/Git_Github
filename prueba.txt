@@ -1,0 +1,22 @@
+hola a todos
+
+adios a todos
+
+Espero tenga un ecelente día
+
+La fecha es 2025
+
+modificamos usr
+
+git show agregado
+
+commit de prueba
+
+commit 2
+
+commi 3
+
+adiciono nueva línea el 26 a las 7:34
+
+adición 26/01/2024
+otras ver del 26/01/2024
