@@ -5,3 +5,4 @@ diseño completo
 |||||
 -----
 XXXXX
+*error
